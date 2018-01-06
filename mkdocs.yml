@@ -1,0 +1,30 @@
+site_name: "TimeBlock Attention Marketplace"
+site_description: "Whitepaper for TimeBlock Attention Marketplace"
+site_author: "team@timeblocktoken.io"
+
+pages:
+  - Home: index.md
+  - Introducing Decentralized Attention Marketplace: introduction.md
+  - TimeBlock Protocol: protocol.md
+  - Token Mechanism: token.md
+  - Business Model: business_model.md
+  - Current Progress and Future Roadmap: roadmap.md
+  - Meet the Team: team.md
+  - About:
+    - Reviewers: about/reviewers.md
+    - License: about/license.md
+
+theme:
+  name: "material"
+  language: "en"
+  palette:
+    primary: "deep purple"
+    accent: "deep purple"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  logo:
+    icon: "layers"
+    
+docs_dir: "pages"
+site_dir: "docs"
