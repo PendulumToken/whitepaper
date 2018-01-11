@@ -1,4 +1,4 @@
-# Whitepaper: TimeBlock Attention Marketplace
+# Whitepaper: Pendulum Attention Marketplace
 
 <h3 style="font-weight: 300; color: gray;">A decentralized personal attention marketplace on the Ethereum blockchain.</h3>
 

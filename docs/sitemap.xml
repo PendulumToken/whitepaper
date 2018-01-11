@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/introduction/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/protocol/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>/token/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>/business_model/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
      <loc>/roadmap/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
      <loc>/team/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -61,13 +61,13 @@
         
     <url>
      <loc>/about/reviewers/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/about/license/</loc>
-     <lastmod>2018-01-06</lastmod>
+     <lastmod>2018-01-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

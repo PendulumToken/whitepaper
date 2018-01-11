@@ -1,11 +1,11 @@
-site_name: "TimeBlock Attention Marketplace"
-site_description: "Whitepaper for TimeBlock Attention Marketplace"
-site_author: "team@timeblocktoken.io"
+site_name: "Pendulum Attention Marketplace"
+site_description: "Whitepaper for Pendulum Attention Marketplace"
+site_author: "team@pendulum.tech"
 
 pages:
   - Home: index.md
   - Introducing Decentralized Attention Marketplace: introduction.md
-  - TimeBlock Protocol: protocol.md
+  - Pendulum Protocol: protocol.md
   - Token Mechanism: token.md
   - Business Model: business_model.md
   - Current Progress and Future Roadmap: roadmap.md
