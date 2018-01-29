@@ -1,15 +1,18 @@
-# Whitepaper: Pendulum Attention Marketplace
+# Pendulum Whitepaper
 
-<h3 style="font-weight: 300; color: gray;">A decentralized personal attention marketplace on the Ethereum blockchain.</h3>
+<h2 class="thin">The engine to drive the decentralized future of time on the Ethereum blockchain.</h2>
 
 ## Where to start?
 
-* [Introducing Decentralized Attention Marketplace](./introduction) describes attention markets, its current problems, and our proposed solution.
-* [Ping Protocol](./protocol) provides an overview and design of the platform for a decentralized attention marketplace.
-* [Token Mechanism](./token) outlines the Ping token model and its utilities.
-* [Business Model](./business_model) describes our business plan, competitive analysis, and various use cases.
-* [Current Progress and Future Roadmap](./roadmap) lists our completed, ongoing, and future milestones.
-* [Meet the Team](./team) presents our team, advisors, and supporters.
+* [Introduction](./introduction) describes the attention economy, its current problems, and our vision.
+* [Pendulum Protocol Overview](./protocol) outlines the various mechanisms.
+* [Smart Pricing](./pricing) covers the market-based pricing of people's time.
+* [Trust Graph and Reputation](./reputation) covers trust and reputation between peers.
+* [Relevance Mechanism](./relevance) explains the relevance matching based on people's skills and affinities.
+* [Staking Mechanism](./staking) illustrates the skin-in-the-game staking for makers, takers, and verifiers.
+* [Use Cases](./use-cases) outlines the various use cases and analysis.
+* [Roadmap](./roadmap) lists our completed, ongoing, and future milestones. 
+* [Meet the team](./team) presents our team, advisors, and supporters.
 
 ## About this document
 
@@ -17,6 +20,6 @@ We are regularly updating this document as our project matures and evolves. Feed
 
 See the issues for topics that need to be covered or updated. If you have an idea you would like to discuss, please chat with us in [Gitter](https://gitter.im/PingAttentionMarket).
 
-If you've written an article or blog post, please contact us at [info@pingtoken.com](mailto:info@pingtoken.com).
+If you've written an article or blog post, please contact us at [info@pendulum.tech](mailto:info@pendulum.tech).
 
 <br/>

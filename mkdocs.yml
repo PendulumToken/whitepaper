@@ -1,14 +1,17 @@
-site_name: "Pendulum Attention Marketplace"
-site_description: "Whitepaper for Pendulum Attention Marketplace"
+site_name: "Pendulum Whitepaper"
+site_description: "Whitepaper for Pendulum"
 site_author: "team@pendulum.tech"
 
 pages:
   - Home: index.md
-  - Introducing Decentralized Attention Marketplace: introduction.md
-  - Pendulum Protocol: protocol.md
-  - Token Mechanism: token.md
-  - Business Model: business_model.md
-  - Current Progress and Future Roadmap: roadmap.md
+  - Introduction: introduction.md
+  - Pendulum Protocols Overview: protocol.md
+  - Smart Pricing: pricing.md
+  - Trust Graph and Reputation: reputation.md
+  - Relevance Mechanism: relevance.md
+  - Staking Mechanism: staking.md
+  - Use Cases: use-cases.md
+  - Roadmap: roadmap.md
   - Meet the Team: team.md
   - About:
     - Reviewers: about/reviewers.md
@@ -28,3 +31,4 @@ theme:
     
 docs_dir: "pages"
 site_dir: "docs"
+extra_css: [styles/styles.css]

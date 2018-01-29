@@ -1,6 +1,30 @@
+body, 
+.md-typeset {
+  font-weight: 300;
+  color: #444;
+}
+
+.md-main__inner {
+  padding-bottom: 3rem;
+}
+
+.md-typeset h1, 
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-weight: 500;
+  color: #444;
+}
+
 .md-typeset h3 {
 	font-weight: 600;
 	font-size: 1.8rem;
+}
+
+.md-nav__link {
+  margin-top: 13px;
 }
 
 q {
@@ -13,7 +37,7 @@ q {
 }
 
 .thin {
-	font-weight: 300;
+	font-weight: 300 !important;
 }
 
 .todo {
