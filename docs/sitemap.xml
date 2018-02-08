@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
      <loc>/introduction/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
      <loc>/protocol/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
      <loc>/pricing/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
      <loc>/reputation/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
      <loc>/relevance/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
      <loc>/staking/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
      <loc>/use-cases/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
      <loc>/roadmap/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -76,25 +76,9 @@
     
     <url>
      <loc>/team/</loc>
-     <lastmod>2018-02-01</lastmod>
+     <lastmod>2018-02-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
-        
-    <url>
-     <loc>/about/reviewers/</loc>
-     <lastmod>2018-02-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/about/license/</loc>
-     <lastmod>2018-02-01</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>

@@ -4,6 +4,11 @@ body,
   color: #444;
 }
 
+figure {
+  margin: 0;
+  padding: 0;
+}
+
 .md-main__inner {
   padding-bottom: 3rem;
 }
@@ -18,9 +23,13 @@ body,
   color: #444;
 }
 
+.md-typeset h1 {
+  font-size: 4.0rem;
+}
+
 .md-typeset h3 {
-	font-weight: 600;
-	font-size: 1.8rem;
+  font-weight: 600;
+  font-size: 1.8rem;
 }
 
 .md-nav__link {
@@ -28,19 +37,19 @@ body,
 }
 
 q {
-	color: #666;
+  color: #666;
 }
 
 .lead {
-	font-weight: 300;
-	font-size: 20px;
+  font-weight: 300;
+  font-size: 20px;
 }
 
 .thin {
-	font-weight: 300 !important;
+  font-weight: 300 !important;
 }
 
 .todo {
-	font-weight: 500;
-	color: red;
+  font-weight: 500;
+  color: red;
 }

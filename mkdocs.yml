@@ -13,9 +13,6 @@ pages:
   - Use Cases: use-cases.md
   - Roadmap: roadmap.md
   - Meet the Team: team.md
-  - About:
-    - Reviewers: about/reviewers.md
-    - License: about/license.md
 
 theme:
   name: "material"
@@ -31,4 +28,9 @@ theme:
     
 docs_dir: "pages"
 site_dir: "docs"
-extra_css: [styles/styles.css]
+extra_css:
+    - styles/fontawesome.css
+    - styles/layout.css
+    - styles/roadmap.css
+    - styles/simple-grid.css
+    - styles/team.css

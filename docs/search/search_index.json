@@ -142,28 +142,63 @@
         },
         {
             "location": "/use-cases/",
-            "text": "",
+            "text": "Use Cases\n\n\nThe Pendulum protocol has a variety of use cases for dapp developers who can benefit from dynamic pricing for buying and selling time.\n\n\nAttention Markets\n\n\nAttention markets allow advertisers, publishers, and users to interchange in a token driven advertising and media model. Instead of giving up their attention for free to centralized aggregators like Facebook and Google, users can monetize their own attention and time directly to advertisers, and publishers and compensated for quality content.\n\n\nSales and Business Development\n\n\nCapturing the attention of high value customers is crucial but also challenging since these key people are also the most pressed for time. The best way to generate sales and business development leads is to couple a trusted referral with an incentive, and this can be approached with the Pendulum protocol.\n\n\nConsultants, Advisory, and Influencers\n\n\nProfessional advisors and consultants can safely monetize their expertise in a global knowledge network without giving up high fees to a centralized intermediary. Influencers and celebrities can connect to their ardent fans and others who would pay to have access to them via a call or group chat.\n\n\nMicrotasks - Mechanical Turk\n\n\nCurrently dominated by Amazon Mechanical Turk and Crowdflower, microtasks are small, simple tasks that require human judgment and can be completed independently over the internet. A decentralized protocol shrinks the fees that plague this space, while international workers who are unbanked and without identity can earn a fair wage for completing small tasks.",
             "title": "Use Cases"
         },
         {
+            "location": "/use-cases/#use-cases",
+            "text": "The Pendulum protocol has a variety of use cases for dapp developers who can benefit from dynamic pricing for buying and selling time.",
+            "title": "Use Cases"
+        },
+        {
+            "location": "/use-cases/#attention-markets",
+            "text": "Attention markets allow advertisers, publishers, and users to interchange in a token driven advertising and media model. Instead of giving up their attention for free to centralized aggregators like Facebook and Google, users can monetize their own attention and time directly to advertisers, and publishers and compensated for quality content.",
+            "title": "Attention Markets"
+        },
+        {
+            "location": "/use-cases/#sales-and-business-development",
+            "text": "Capturing the attention of high value customers is crucial but also challenging since these key people are also the most pressed for time. The best way to generate sales and business development leads is to couple a trusted referral with an incentive, and this can be approached with the Pendulum protocol.",
+            "title": "Sales and Business Development"
+        },
+        {
+            "location": "/use-cases/#consultants-advisory-and-influencers",
+            "text": "Professional advisors and consultants can safely monetize their expertise in a global knowledge network without giving up high fees to a centralized intermediary. Influencers and celebrities can connect to their ardent fans and others who would pay to have access to them via a call or group chat.",
+            "title": "Consultants, Advisory, and Influencers"
+        },
+        {
+            "location": "/use-cases/#microtasks-mechanical-turk",
+            "text": "Currently dominated by Amazon Mechanical Turk and Crowdflower, microtasks are small, simple tasks that require human judgment and can be completed independently over the internet. A decentralized protocol shrinks the fees that plague this space, while international workers who are unbanked and without identity can earn a fair wage for completing small tasks.",
+            "title": "Microtasks - Mechanical Turk"
+        },
+        {
             "location": "/roadmap/",
+            "text": "Roadmap\n\n\n\n  \n\n    \n\n      \nSpring 2018\n\n    \n\n    \n\n      \nPhase I - Alpha launch on Testnet \n\n    \n\n  \n\n  \n\n    \n\n      \nSummer 2018\n\n    \n\n    \n\n      \nPhase II - Beta launch on Mainnet\n\n    \n\n  \n\n  \n\n    \n\n      \nFall 2018\n\n    \n\n    \n\n      \nToken sale\n\n    \n\n  \n\n  \n\n    \n\n      \nWinter 2018\n\n    \n\n    \n\n      \nPhase III - Real-time market-based pricing oracle and reputation service\n\n    \n\n  \n\n  \n\n    \n\n      \n2019\n\n    \n\n    \n\n      \nPhase IV - Support other use cases",
+            "title": "Roadmap"
+        },
+        {
+            "location": "/roadmap/#roadmap",
             "text": "",
             "title": "Roadmap"
         },
         {
             "location": "/team/",
+            "text": "Meet the Team\n\n\nFounding Team\n\n\n\n  \n\n    \n\n      \n\n        \n\n      \n\n    \n\n    \n\n      \nCrystal Ou\n\n      \n\n        Business Cofounder\n        \u00a0\u00a0\n        \n\n      \n\n      \nCrystal has a passion for paradigm shifting products and technologies. She worked at LinkedIn before its IPO and led a product team at LearnVest before it was acquired by Northwestern Mutual. Crystal studied engineering at the Johns Hopkins University and the Georgia Institute of Technology and has an MBA from the Wharton School at the University of Pennsylvania.\n\n    \n\n  \n\n  \n\n    \n\n      \n\n        \n\n      \n\n    \n\n    \n\n      \nHwi Yong Song\n\n      \n\n        Technical Cofounder \n        \u00a0\u00a0\n        \n\n        \u00a0\u00a0\n        \n\n        \u00a0\u00a0\n        \n\n      \n\n      \nHwi Yong is driven by moving fast and getting results, bringing about social change and disrupting the status quo. He studied Computer Science at UC Berkeley and spent 10+ years as a full-stack software engineer and team lead at 3 startups, including LinkedIn where he spent 5 years as a technical lead for the Homepage and Network Updates team.\n\n    \n\n  \n\n\n\n\nAdvisors\n\n\nComing soon.",
+            "title": "Meet the Team"
+        },
+        {
+            "location": "/team/#meet-the-team",
             "text": "",
             "title": "Meet the Team"
         },
         {
-            "location": "/about/reviewers/",
+            "location": "/team/#founding-team",
             "text": "",
-            "title": "Reviewers"
+            "title": "Founding Team"
         },
         {
-            "location": "/about/license/",
-            "text": "",
-            "title": "License"
+            "location": "/team/#advisors",
+            "text": "Coming soon.",
+            "title": "Advisors"
         }
     ]
 }
