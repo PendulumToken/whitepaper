@@ -252,10 +252,74 @@
     
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="toc">
     
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Staking Mechanism
+      </label>
     
     <a href="./" title="Staking Mechanism" class="md-nav__link md-nav__link--active">
       Staking Mechanism
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#staking-for-requesters" title="Staking for Requesters" class="md-nav__link">
+    Staking for Requesters
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#staking-for-verifiers" title="Staking for Verifiers" class="md-nav__link">
+    Staking for Verifiers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-i-consensus-that-work-is-acceptable-and-requestor-agrees" title="Case I: consensus that work is acceptable, and Requestor agrees" class="md-nav__link">
+    Case I: consensus that work is acceptable, and Requestor agrees
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-ii-consensus-that-work-is-not-acceptable-and-freelancer-agrees" title="Case II: consensus that work is not acceptable, and Freelancer agrees" class="md-nav__link">
+    Case II: consensus that work is not acceptable, and Freelancer agrees
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-iii-consensus-that-work-is-not-acceptable-but-freelancer-objects" title="Case III: consensus that work is not acceptable, but Freelancer objects" class="md-nav__link">
+    Case III: consensus that work is not acceptable, but Freelancer objects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-iv-consensus-that-work-is-acceptable-but-requestor-objects" title="Case IV: consensus that work is acceptable, but Requestor objects" class="md-nav__link">
+    Case IV: consensus that work is acceptable, but Requestor objects
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -303,15 +367,91 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#staking-for-requesters" title="Staking for Requesters" class="md-nav__link">
+    Staking for Requesters
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#staking-for-verifiers" title="Staking for Verifiers" class="md-nav__link">
+    Staking for Verifiers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-i-consensus-that-work-is-acceptable-and-requestor-agrees" title="Case I: consensus that work is acceptable, and Requestor agrees" class="md-nav__link">
+    Case I: consensus that work is acceptable, and Requestor agrees
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-ii-consensus-that-work-is-not-acceptable-and-freelancer-agrees" title="Case II: consensus that work is not acceptable, and Freelancer agrees" class="md-nav__link">
+    Case II: consensus that work is not acceptable, and Freelancer agrees
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-iii-consensus-that-work-is-not-acceptable-but-freelancer-objects" title="Case III: consensus that work is not acceptable, but Freelancer objects" class="md-nav__link">
+    Case III: consensus that work is not acceptable, but Freelancer objects
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#case-iv-consensus-that-work-is-acceptable-but-requestor-objects" title="Case IV: consensus that work is acceptable, but Requestor objects" class="md-nav__link">
+    Case IV: consensus that work is acceptable, but Requestor objects
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                  <h1>Staking Mechanism</h1>
-                
-                
+                <h1 id="staking-for-freelancers">Staking for Freelancers</h1>
+<p>To ensure that they get quality work, requesters can require freelancers to put in a stake by using our staking smart contract. When staking this amount, Fs, the freelancer asserts that the work they have completed is done accurately and fairly. The amount staked should be enough to be “skin in the game”, but not too much that it substantively hurts freelancers who may just need to improve the quality of their work to an industry accepted level.  However, Fs should be large enough to disincentivize bad actors from gaming the system, as well as pay for verifiers and the gas used by the network.</p>
+<h2 id="staking-for-requesters">Staking for Requesters</h2>
+<p>Requesters stake an amount, Rs, in escrow to disincentivize them from acting in bad faith by rejecting work that is up to industry accepted standards.  This amount is used to pay verifiers and the gas required by the network to complete the verification process.</p>
+<h2 id="staking-for-verifiers">Staking for Verifiers</h2>
+<p>In a process similar to code review in the software industry, vetted industry professionals called “verifiers” review and confirm the validity of the work that has been submitted by freelancers.  Requesters determine whether they require verifiers and how many verifications are needed before the work is accepted.  Relative to freelancers, verifiers stake a smaller amount, Vs, since they are reputable industry professionals chosen by the community and thus less likely to act in bad faith.  However, this stake still ensures that verifiers still are properly incentivized to be thorough and accurate in their verifications. Often, more than one verifier is requested and each verifier’s stake is governed by a smart contract. The verifiers reach consensus, and the verifier loses their stake if their review was overturned.  </p>
+<p>If verifiers do not reach consensus on the work accuracy, a new set of verifiers are asked to verify the task. The new verifiers will be paid through the lost stake of the verifier who was wrong in their previous assessment.</p>
+<h2 id="case-i-consensus-that-work-is-acceptable-and-requestor-agrees">Case I: consensus that work is acceptable, and Requestor agrees</h2>
+<p>If two or more verifiers reach consensus and validate that the work meets industry standards, then the bounty reward, Fr, is released from escrow and paid out to the freelancer.  The requestor’s staked, Rs, is distributed among the verifiers and also covers the gas required in the verification process.</p>
+<h2 id="case-ii-consensus-that-work-is-not-acceptable-and-freelancer-agrees">Case II: consensus that work is not acceptable, and Freelancer agrees</h2>
+<p>If the verifiers reach consensus and say the work is inaccurate and the freelancer concedes, the freelancer has an opportunity to redo the work within a given timeframe.    If the freelancer successfully completes completes the task on the second try, he or she is penalized Vr, and their total reward is Fr − Vr. If the freelancer fails to redo the work, they lose their original stake of Fs to cover the verifiers and gas.  The bounty reward, Fr, is released from escrow and returned to the requestor.</p>
+<h2 id="case-iii-consensus-that-work-is-not-acceptable-but-freelancer-objects">Case III: consensus that work is not acceptable, but Freelancer objects</h2>
+<p>If the verifiers reach consensus and say the work is inaccurate but the freelancer objects, the freelancer will have to put in additional stake Fs2 and a second set of verifiers will review the work.  If the work is deemed acceptable in this second round of review, the Fs2 is returned to the freelancer and the first set of verifiers will lose their stake. If the work is deemed unacceptable in this second round of review, the freelancer loses both sets of stake, Fs + Fs2, and the bounty reward Fr is returned back to the requestor.</p>
+<h2 id="case-iv-consensus-that-work-is-acceptable-but-requestor-objects">Case IV: consensus that work is acceptable, but Requestor objects</h2>
+<p>If the verifiers reach consensus and say the work is acceptable, but the requestor objects, the requestor will have to put in additional stake Rs2 and a second set of (more qualified) verifiers will review the work.  If the work is deemed acceptable again in this second round of review, the bounty reward Fr is released from escrow to the freelancer, and the requestor loses both sets of stake Rs + Rs2. If the work is deemed unacceptable in this second round of review, the first set of verifiers will lose their stake, and the bounty reward Fr is returned back to the requestor.</p>
                 
                   
                 
